@@ -1,0 +1,71 @@
+{
+    "name": "UIAct",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "0b1e5e69-dc7b-445e-ab64-569776aab6a7",
+            "actions": [
+                {
+                    "name": "Esc",
+                    "type": "Button",
+                    "id": "12cfbd26-ba4d-452e-8f13-b4b803de4d1e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "KeySet",
+                    "type": "Button",
+                    "id": "ecb729b0-a772-4dec-97c2-67182f6941c1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a2b88826-2f83-4fed-8a3d-46f42dc36d35",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Esc",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8768e506-d45a-4a88-914b-a6765232a0e4",
+                    "path": "<Keyboard>/f11",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeySet",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "UI",
+            "bindingGroup": "UI",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e41c179774233948aec27231ef4ece4, type: 3}
+  m_Name: Galchi
+  m_EditorClassIdentifier: 
+  itemName: "\uAC08\uCE58"
+  explan: "\uAE38\uCB49\uD558\uACE0 \uC740\uC0C9\uC744 \uB744\uB294 \uC0DD\uC120.(\uC0AC\uC6A9
+    \uC2DC \uD5C8\uAE30 + 500)"
+  tag: 0
+  iconSprite: {fileID: 21300000, guid: 5b724a262f9099a4fa91cc6d85cc4999, type: 3}
+  productionMaterialTypeList: 
+  productionMaterialAmountList: 
+  amountOfHungerRecovery: 500
+  itemsAffectStatus: 0

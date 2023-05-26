@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63ab83a39221b549ba605959213a83f, type: 3}
+  m_Name: AvocadoGrilledGalchi
+  m_EditorClassIdentifier: 
+  amountOfHungerRecovery: 50
+  itemName: "\uC544\uBCF4\uCE74\uB3C4\uAC08\uCE58\uAD6C\uC774"
+  explan: "\uC544\uBCF4\uCE74\uB3C4\uB97C \uACC1\uB4E4\uC778 \uAC08\uCE58\uAD6C\uC774.(\uC0AC\uC6A9
+    \uC2DC \uD5C8\uAE30 + 50)"
+  tag: 0
+  iconSprite: {fileID: 21300000, guid: 49b39603830f33a4b824a46dbccab3d0, type: 3}

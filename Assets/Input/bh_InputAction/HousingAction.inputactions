@@ -1,0 +1,51 @@
+{
+    "name": "HousingAction",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "e27bf21a-1377-46b1-8ac7-e39a82048afc",
+            "actions": [
+                {
+                    "name": "SetUp",
+                    "type": "Button",
+                    "id": "eb265c14-c075-481f-ada2-e519144d3c35",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "63cef104-458d-4947-9949-906b2891e9f9",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MouseAndKeyboard",
+                    "action": "SetUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MouseAndKeyboard",
+            "bindingGroup": "MouseAndKeyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ead1ac2e2b95f84ab17ece01b94654f, type: 3}
+  m_Name: StoneFishingrod
+  m_EditorClassIdentifier: 
+  itemName: "\uB3CC\uB09A\uC2EF\uB300"
+  explan: "\uB3CC\uB85C \uB9CC\uB4E0 \uB09A\uC2EF\uB300. \uC0AC\uC6A9\uC2DC \uBC14\uB2E4\uC5D0\uC11C
+    \uB09A\uC2DC\uB97C \uD560 \uC218 \uC788\uB2E4."
+  tag: 2
+  iconSprite: {fileID: 21300000, guid: 7d6a92947f837654fbc852c747cb0dcd, type: 3}
+  productionMaterialTypeList: 000000000300000009000000
+  productionMaterialAmountList: 020000000300000003000000
+  toolType: 3
+  level: 1

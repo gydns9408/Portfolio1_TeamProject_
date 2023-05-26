@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63ab83a39221b549ba605959213a83f, type: 3}
+  m_Name: Firewood
+  m_EditorClassIdentifier: 
+  amountOfHungerRecovery: 0
+  itemName: "\uC7A5\uC791"
+  explan: "\uB098\uBB34\uB97C \uBC8C\uBAA9\uD558\uC5EC \uC5BB\uB294 \uC911\uC694\uD55C
+    \uC790\uC6D0."
+  tag: 1
+  iconSprite: {fileID: 21300000, guid: 36d7d1a6d985a1f4881c25452548cd92, type: 3}

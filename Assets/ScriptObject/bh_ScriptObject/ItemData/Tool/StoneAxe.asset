@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ead1ac2e2b95f84ab17ece01b94654f, type: 3}
+  m_Name: StoneAxe
+  m_EditorClassIdentifier: 
+  itemName: "\uB3CC\uB3C4\uB07C"
+  explan: "\uB3CC\uB85C \uB9CC\uB4E0 \uB3C4\uB07C. \uC0AC\uC6A9\uC2DC \uB098\uBB34\uB97C
+    \uBCA8 \uB54C \uCCB4\uB825\uC18C\uBAA8\uAC00 \uC801\uC5B4\uC9C4\uB2E4."
+  tag: 2
+  iconSprite: {fileID: 21300000, guid: daa387658944b4c42a007fa73ae4810a, type: 3}
+  productionMaterialTypeList: 0300000009000000
+  productionMaterialAmountList: 0500000003000000
+  toolType: 0
+  level: 1

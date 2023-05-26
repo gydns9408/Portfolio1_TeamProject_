@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ead1ac2e2b95f84ab17ece01b94654f, type: 3}
+  m_Name: GoldSickle
+  m_EditorClassIdentifier: 
+  itemName: "\uAE08\uB0AB"
+  explan: "\uAE08\uC73C\uB85C \uB9CC\uB4E0 \uB0AB. \uC0AC\uC6A9\uC2DC \uCCA0\uB0AB\uBCF4\uB2E4
+    \uCCB4\uB825\uC18C\uBAA8\uAC00 \uC801\uACE0, \uB354 \uC88B\uC740 \uC544\uC774\uD15C\uC744
+    \uC5BB\uC744 \uC218 \uC788\uB2E4."
+  tag: 2
+  iconSprite: {fileID: 21300000, guid: ee634454da8bae44b892657b30a0d71d, type: 3}
+  productionMaterialTypeList: 00000000010000000200000003000000090000000a0000000b00000017000000
+  productionMaterialAmountList: 0100000002000000040000002000000001000000030000000300000001000000
+  toolType: 2
+  level: 3
